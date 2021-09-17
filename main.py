@@ -9,6 +9,12 @@ print("Hello " + name + "!")
 while guesses < 5:
   guesses += 1
   guess = input("Enter a guess: ")
+  try:
+    float(guess)
+  except ValueError:
+    guesses -=1
+    print("Invalid input, please try again.")
+    continue
   if int(guess) < ranNum:
     print("Too low! Try again.")
   if int(guess) > ranNum:
