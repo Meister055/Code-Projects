@@ -101,7 +101,7 @@ while playerAscore or playerBscore <= 11:
 
     if ball.xcor() > 390:
         ball.goto(0,0)
-        ball_dx = ball_dx * -1
+        ballxdirection = ballxdirection * -1
         playerAscore += 1
         pen.clear()
         pen.write(playerAscore + "                    " + playerBscore.format(),align="center",font=('LCDMono',24,"normal"))
@@ -110,10 +110,10 @@ while playerAscore or playerBscore <= 11:
         # Paddle Colisions #
         if(ball.xcor() > 340) and (ball.xcor() < 350) and (ball.ycor() < rightpaddle.ycor() + 40 and ball.ycor() > rightpaddle.ycor() - 40):
             ball.setx(340)
-            ball_dx = ball_dx * -1
+            ballxdirection = ballxdirection * -1
             os.system("afplay wallhit.wav&")
 
         if(ball.xcor() < -340) and (ball.xcor() > -350) and (ball.ycor() < leftpaddle.ycor() + 40 and ball.ycor() > leftpaddle.ycor() - 40):
             ball.setx(-340)
-            ball_dx = ball_dx * -1
+            ballxdirection = ballxdirection * -1
             os.system("afplay wallhit.wav&")
