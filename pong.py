@@ -30,7 +30,7 @@ rightpaddle.shape("square")
 rightpaddle.color("white")
 rightpaddle.shapesize(stretch_wid=5,stretch_len=1)
 rightpaddle.penup()
-rightpaddle.goto(-350,0)
+rightpaddle.goto(350,0)
 
 ### Ball ###
 ball=t.Turtle()
@@ -104,7 +104,7 @@ while playerAscore or playerBscore <= 11:
         ballxdirection = ballxdirection * -1
         playerAscore += 1
         pen.clear()
-        pen.write(playerAscore + "                    " + playerBscore.format(),align="center",font=('LCDMono',24,"normal"))
+        pen.write(str(playerAscore) + "                    " + str(playerBscore).format(),align="center",font=('LCDMono',24,"normal"))
         os.system("afplay wallhit.wav&")
         
         # Paddle Colisions #
