@@ -6,7 +6,7 @@ guesses = 0
 ranNum = rd.randint(1, 10)
 name = input("What's your name? ")
 print("Hello " + name + "!")
-while guesses < 5:
+while guesses < 6:
   guesses += 1
   guess = input("Enter a guess: ")
   try:
@@ -24,4 +24,6 @@ while guesses < 5:
       tryText = "tries"
       print("Great job! The number was: " + str(ranNum) + " and you got it in " + str(guesses) + " " + tryText + "!")
       break
+if guesses > 5:
+  print("Sorry you suck lol")
 
