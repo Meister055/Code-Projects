@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(10,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(10,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(10,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(10,10): message : this argument is used as a buffer size
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(12,9): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(12,9): warning C4313: 'printf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\ConsoleApplication1\ConsoleApplication1.cpp(10): error C4700: uninitialized local variable 'color' used

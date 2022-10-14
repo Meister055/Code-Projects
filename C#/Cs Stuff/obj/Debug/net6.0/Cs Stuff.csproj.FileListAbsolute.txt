@@ -1,0 +1,15 @@
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\bin\Debug\net6.0\Cs Stuff.exe
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\bin\Debug\net6.0\Cs Stuff.deps.json
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\bin\Debug\net6.0\Cs Stuff.runtimeconfig.json
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\bin\Debug\net6.0\Cs Stuff.dll
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\bin\Debug\net6.0\Cs Stuff.pdb
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.AssemblyInfo.cs
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.dll
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\refint\Cs Stuff.dll
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.pdb
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\Cs Stuff.genruntimeconfig.cache
+C:\Users\Josh\source\repos\loser-just-developing\Code-Projects\C#\Cs Stuff\obj\Debug\net6.0\ref\Cs Stuff.dll
