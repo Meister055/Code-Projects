@@ -1,0 +1,4 @@
+name: 'firstPlugin'
+version: 1.0.1
+main: nl.meister.minecraftPlugin.TutorialPlugin
+api-version: 1.19
